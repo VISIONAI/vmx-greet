@@ -9,6 +9,8 @@
 These demos will use the first session and require that
   VMX App Builder is already running in a separate Browser tab.
 
+<img src="vmx-greet.jpg">
+
 ### 1. api.html
 
 The first example which shows the output of VMX inside a separate
